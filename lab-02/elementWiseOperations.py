@@ -1,0 +1,16 @@
+import numpy as np
+
+matrix1 = np.array([[1,2],
+                    [3,4]])
+matrix2 = np.array([[5,6],
+                    [7,8]])
+
+matrix = matrix1 + matrix2
+print("We can perform Element-Wise operations")
+print("Addition of matrices:")
+print(matrix)
+
+print("Multiplication of matrices:")
+mul_matrix = matrix1 * matrix2
+print(mul_matrix)
+

@@ -1,0 +1,15 @@
+This is the Lab Manual : Lab02 =>
+
+Objective: 
+The objective of this lab is to learn about numpy, a python library, commonly used for 
+implementing neural networks.
+
+Activity Outcomes: 
+The activities provide hands - on practice with the following topics 
+• Implement vectors and matrixes. 
+• Perform vectors and matrix operations such as dot product, addition, subtraction, 
+reshaping, etc  
+• Perform indexing and slicing. 
+• Implement random matrixes 
+• Implement algebraic operations such as transpose
+
